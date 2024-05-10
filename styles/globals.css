@@ -135,3 +135,19 @@
     color: #333;
     text-align: center;
   }
+
+  /* SSR Component Styles */
+.ssr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  font-size: 1.2rem;
+  color: #666;
+  margin-top: 20px;
+}
