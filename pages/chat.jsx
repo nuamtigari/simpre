@@ -1,5 +1,3 @@
-// /pages/chat.jsx
-
 import ChatComponent from "@/js/components/ChatComponent";
 
 const ChatPage = () => {

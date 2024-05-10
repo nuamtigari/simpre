@@ -1,4 +1,4 @@
-// /pages/index.js
+
 
 import MainPage from "@/components/MainPage";
 

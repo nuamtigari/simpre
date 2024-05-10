@@ -1,4 +1,4 @@
-// /utils/recordsFunctions.js
+
 
 export const getRecords = async () => {
     try {

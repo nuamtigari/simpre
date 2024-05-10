@@ -1,5 +1,3 @@
-// /components/ChatComponent.jsx
-
 import React, {useState} from 'react';
 import MessageBox from "@/js/components/MessageBox";
 

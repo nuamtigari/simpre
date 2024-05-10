@@ -1,4 +1,4 @@
-// /pages/api/answer.js
+
 
 import openai from "@/lib/openai";
 import { sendBadRequest, sendMethodNotAllowed, sendOk } from "@/utils/apiMethods";
