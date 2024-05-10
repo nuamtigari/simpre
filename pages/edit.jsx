@@ -1,5 +1,3 @@
-// /pages/records/edit.jsx
-
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import Spinner from "@/components/Spinner";
